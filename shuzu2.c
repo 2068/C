@@ -16,6 +16,6 @@ int main()
 		scanf("%d", &x);
 	}
 	for (int i = 0; i < number; i++)
-		printf("%d:%d", i, count[i]);
+		printf("%d:%d\n", i, count[i]);
 	return 0;
 }
